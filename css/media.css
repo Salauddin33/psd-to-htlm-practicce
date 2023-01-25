@@ -1,0 +1,343 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 320px) and (max-width: 575.98px) { 
+    .logo_part{
+        text-align: center;
+    }
+    .text h3 {
+        padding-top: 10px;
+        font-size: 13px;
+    }
+    .number h3 {
+        padding-top: 20px;
+        font-size: 25px;
+        text-align: center;
+    }
+    .menu_item ul li a {
+        padding-right: 65px;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .menu_part{
+        text-align: center;
+    }
+    .banner_txt_part {
+        padding-top: 10px;
+    }
+    .banner_txt_part{
+        text-align: center;
+    }
+
+    .banner_txt h1 {
+        margin-bottom: 25px;
+        font-size: 30px;
+       
+    }
+    .banner_txt p {
+        padding-bottom: 20px;
+    
+    }
+    .w-100 {
+        margin-top: 25px;
+    }
+    .notice_txttttt{
+        text-align: center;
+    }
+    .notice{
+        text-align: center;
+    }
+    .notices{
+        text-align: center;
+    }
+    .news_txt_part{
+        text-align: center;
+    }
+    .service_part{
+        text-align: center;
+    }
+    .doctor_img_part{
+        text-align: center;
+    }
+    .about_txt_img_part {
+        margin-bottom: 30px;
+    }
+    .notice_txttttt p::after {
+        width: 100%;
+        bottom: -16px;
+    }
+    .gallary{
+        text-align: center;
+    }
+    .view_partttt{
+        text-align: center;
+    }
+    .view_part{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .ply_btn {
+        bottom: 0%;
+    }
+    .view_partt li {
+        margin-bottom: 30px;
+    }
+    .view_parttt li {
+        margin-bottom: 30px;
+    }
+    .gallary{
+        margin-top: 10px;
+    }
+    .footer_txtt_item{
+        text-align: center;
+    }
+    .last_part h3 {
+        font-size: 10px;
+    }
+
+
+
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .logo_part{
+        text-align: center;
+    }
+    .text h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .number h3 {
+        font-size: 26px;
+        
+        text-align: center;
+    }
+    .menu_item ul li a {
+        padding-right: 20px;
+        font-size: 15px;
+
+    }
+
+    .banner_txt_part {
+        padding-top: 50px;
+        text-align: center;
+    }
+    
+    .banner_txt p {
+        width: 503px;
+    }
+
+    .about_txt_img_part {
+        text-align: center;
+    }
+    .about_txt_img li {
+        margin-bottom: 30px;
+    }
+    .notice_txttttt p::after {
+      
+        width: 100%;
+        bottom: -17px;
+
+    }
+    .notice_txttttt{
+        text-align: center;
+    }
+    .view_part {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .view_partt li {
+        margin-bottom: 30px;
+    }
+    .view_parttt li {
+        margin-bottom: 30px;
+    }
+    .gallary{
+        margin-top: 10px;
+        text-align: center;
+    }
+    .view_partttt{
+        text-align: center;
+    }
+    .doctor_img_part{
+        text-align: center;
+    }
+    .footer_txtt_item{
+        text-align: center;
+    }
+    .last_part{
+        text-align: center;
+    }
+
+
+
+
+
+
+
+ }
+/* 
+// Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .text h3 {
+        text-align: center;
+    }
+    .logo_part{
+        text-align: center;
+    }
+    .number{
+        text-align: center;
+    }
+    .menu_item ul li a {
+        padding-right: 44px;
+        margin-bottom: 12px;
+    }
+.banner_txt_part{
+    text-align: center;
+}
+.banner_txt p {
+
+	width: 710px;
+}
+.about_txt_img li {
+	margin-bottom: 30px;
+}
+.notice_txttttt{
+    text-align: center;
+}
+.notice_txttttt p::after {
+	width: 100%;
+
+	bottom: -17px;
+}
+.view_part{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.ply_btn {
+bottom: 28%;
+
+}
+.view_partt{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.notice{
+    text-align: center;
+}
+.notices{
+    text-align: center;
+}
+.news_txt_part{
+    text-align: center;
+}
+.service_part{
+    text-align: center;
+}
+.view_parttt{
+    margin-bottom: 30px;
+}
+.gallary{
+    margin-top: 10px;
+}
+.doctor_img_part{
+    text-align: center;
+}
+.footer_txts{
+    text-align: center;
+}
+.last_part{
+    text-align: center;
+}
+
+
+
+
+
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .text h3 {
+        text-align: center;
+    }
+    .logo_part{
+        text-align: center;
+    }
+    .number{
+        text-align: center;
+    }
+    .menu_item ul li a {
+        padding-right: 44px;
+        margin-bottom: 12px;
+    }
+    #banner_part {
+        padding-top: 20px;
+    }
+
+    .banner_txt_part {
+        padding-top: 30px;
+    }
+    .banner_txt_part{
+        text-align: center;
+    }
+    .banner_txt p {
+    
+        width: 710px;
+    }
+    .about_txt_img li {
+        margin-bottom: 30px;
+    }
+    .notice_txttttt{
+        text-align: center;
+    }
+    .notice_txttttt p::after {
+        width: 100%;
+    
+        bottom: -17px;
+    }
+    .view_part{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .ply_btn {
+    bottom: 28%;
+    
+    }
+    .view_partt{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .notice{
+        text-align: center;
+    }
+    .notices{
+        text-align: center;
+    }
+    .news_txt_part{
+        text-align: center;
+    }
+    .service_part{
+        text-align: center;
+    }
+    .view_parttt{
+        margin-bottom: 30px;
+    }
+    .gallary{
+        margin-top: 10px;
+    }
+    .doctor_img_part{
+        text-align: center;
+    }
+    .footer_txts{
+        text-align: center;
+    }
+    .last_part{
+        text-align: center;
+    }
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
